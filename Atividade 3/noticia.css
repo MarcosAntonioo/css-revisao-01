@@ -1,0 +1,46 @@
+table{
+    border: solid;
+     
+}
+p{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px
+    color #280;
+}
+.b{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px
+    color #280;
+    background-color: #fff;
+}
+.c{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #fff;
+}
+.d{
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #fff;
+}
+.e{
+    border: solid;
+    font-weight: 1px; color: black;
+
+}
+a:link{
+    color: #0000ff;
+}
+a:visited{
+    color: #ddc71a;
+}
+a:active{
+    color: #ac0b44;
+}
+a:hover{
+    color: #ff0000, negrito;
+}
